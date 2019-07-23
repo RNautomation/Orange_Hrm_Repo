@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="230472" started-at="2019-07-23T05:38:15Z" finished-at="2019-07-23T05:42:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="230472" started-at="2019-07-23T05:38:15Z" finished-at="2019-07-23T05:42:06Z">
+      <class name="com.hrm.qa.testcases.DashBoardPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="20541" started-at="2019-07-23T11:08:15Z" finished-at="2019-07-23T11:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="adminLinkPage()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="adminLinkPage" duration-ms="2862" started-at="2019-07-23T11:08:36Z" finished-at="2019-07-23T11:08:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLinkPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="914" started-at="2019-07-23T11:08:39Z" finished-at="2019-07-23T11:08:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="14133" started-at="2019-07-23T11:08:40Z" finished-at="2019-07-23T11:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AdminLabel()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="AdminLabel" duration-ms="53" started-at="2019-07-23T11:08:54Z" finished-at="2019-07-23T11:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminLabel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="937" started-at="2019-07-23T11:08:54Z" finished-at="2019-07-23T11:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="14720" started-at="2019-07-23T11:08:55Z" finished-at="2019-07-23T11:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyPIMLinkPage()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyPIMLinkPage" duration-ms="2359" started-at="2019-07-23T11:09:09Z" finished-at="2019-07-23T11:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPIMLinkPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="928" started-at="2019-07-23T11:09:12Z" finished-at="2019-07-23T11:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="12292" started-at="2019-07-23T11:09:13Z" finished-at="2019-07-23T11:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyLeaveLinkPage()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyLeaveLinkPage" duration-ms="5796" started-at="2019-07-23T11:09:25Z" finished-at="2019-07-23T11:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLeaveLinkPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="922" started-at="2019-07-23T11:09:31Z" finished-at="2019-07-23T11:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="11862" started-at="2019-07-23T11:09:32Z" finished-at="2019-07-23T11:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTimeLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyTimeLink" duration-ms="4504" started-at="2019-07-23T11:09:44Z" finished-at="2019-07-23T11:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTimeLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="930" started-at="2019-07-23T11:09:48Z" finished-at="2019-07-23T11:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="15416" started-at="2019-07-23T11:09:49Z" finished-at="2019-07-23T11:10:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyRecruitmentLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyRecruitmentLink" duration-ms="3574" started-at="2019-07-23T11:10:04Z" finished-at="2019-07-23T11:10:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRecruitmentLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="952" started-at="2019-07-23T11:10:08Z" finished-at="2019-07-23T11:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="15981" started-at="2019-07-23T11:10:09Z" finished-at="2019-07-23T11:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyPerformanceLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyPerformanceLink" duration-ms="133" started-at="2019-07-23T11:10:25Z" finished-at="2019-07-23T11:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPerformanceLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="962" started-at="2019-07-23T11:10:25Z" finished-at="2019-07-23T11:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="11163" started-at="2019-07-23T11:10:26Z" finished-at="2019-07-23T11:10:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyDashBoardLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyDashBoardLink" duration-ms="2819" started-at="2019-07-23T11:10:37Z" finished-at="2019-07-23T11:10:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDashBoardLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="950" started-at="2019-07-23T11:10:40Z" finished-at="2019-07-23T11:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="13998" started-at="2019-07-23T11:10:41Z" finished-at="2019-07-23T11:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyDirectoryLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyDirectoryLink" duration-ms="2017" started-at="2019-07-23T11:10:55Z" finished-at="2019-07-23T11:10:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDirectoryLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="932" started-at="2019-07-23T11:10:57Z" finished-at="2019-07-23T11:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="15286" started-at="2019-07-23T11:10:58Z" finished-at="2019-07-23T11:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyMaintenanceLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyMaintenanceLink" duration-ms="2122" started-at="2019-07-23T11:11:13Z" finished-at="2019-07-23T11:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMaintenanceLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="928" started-at="2019-07-23T11:11:15Z" finished-at="2019-07-23T11:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="11317" started-at="2019-07-23T11:11:16Z" finished-at="2019-07-23T11:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyAssignLeavelLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyAssignLeavelLink" duration-ms="3835" started-at="2019-07-23T11:11:28Z" finished-at="2019-07-23T11:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAssignLeavelLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="971" started-at="2019-07-23T11:11:31Z" finished-at="2019-07-23T11:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="14159" started-at="2019-07-23T11:11:32Z" finished-at="2019-07-23T11:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyLeaveListLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyLeaveListLink" duration-ms="1908" started-at="2019-07-23T11:11:47Z" finished-at="2019-07-23T11:11:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLeaveListLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="946" started-at="2019-07-23T11:11:48Z" finished-at="2019-07-23T11:11:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="setup" is-config="true" duration-ms="13404" started-at="2019-07-23T11:11:49Z" finished-at="2019-07-23T11:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTimesheetsLink()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="VerifyTimesheetsLink" duration-ms="1930" started-at="2019-07-23T11:12:03Z" finished-at="2019-07-23T11:12:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTimesheetsLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.DashBoardPageTest@1b604f19]" name="tearDown" is-config="true" duration-ms="952" started-at="2019-07-23T11:12:05Z" finished-at="2019-07-23T11:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.DashBoardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
